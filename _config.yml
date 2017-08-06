@@ -47,7 +47,7 @@ author:
       url:
 home:
   section1: <h1>CodessTech</h1>
-  section2: <div class="social-links"><a class="ico-github btn" href="https://github.com/yizeng/jekyll-theme-simple-texture" title="View on GitHub"></a></div>
+  section2: <div class="social-links"><a class="ico-gmail btn" href="mailto:jtemporal@protonmail.com" title="Get in touch"></a></div>
 
 disqus:
   shortname:
